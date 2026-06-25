@@ -15,3 +15,6 @@
 <hr>
 <br>
 💬 Available in english and spanish
+
+## 📂 My Projects
+- [Three of ❤︎](https://github.com/S4rar0d/project-1) - My first certificated project on freecodecamp. Using HTML & CSS.
